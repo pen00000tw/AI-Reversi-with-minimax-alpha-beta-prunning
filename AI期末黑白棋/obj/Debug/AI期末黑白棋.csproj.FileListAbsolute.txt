@@ -1,0 +1,18 @@
+c:\users\kuanmin\documents\visual studio 2013\Projects\AI期末黑白棋\AI期末黑白棋\bin\Debug\AI期末黑白棋.exe.config
+c:\users\kuanmin\documents\visual studio 2013\Projects\AI期末黑白棋\AI期末黑白棋\bin\Debug\AI期末黑白棋.exe
+c:\users\kuanmin\documents\visual studio 2013\Projects\AI期末黑白棋\AI期末黑白棋\bin\Debug\AI期末黑白棋.pdb
+c:\users\kuanmin\documents\visual studio 2013\Projects\AI期末黑白棋\AI期末黑白棋\obj\Debug\AI期末黑白棋.csprojResolveAssemblyReference.cache
+c:\users\kuanmin\documents\visual studio 2013\Projects\AI期末黑白棋\AI期末黑白棋\obj\Debug\AI期末黑白棋.Form1.resources
+c:\users\kuanmin\documents\visual studio 2013\Projects\AI期末黑白棋\AI期末黑白棋\obj\Debug\AI期末黑白棋.Properties.Resources.resources
+c:\users\kuanmin\documents\visual studio 2013\Projects\AI期末黑白棋\AI期末黑白棋\obj\Debug\AI期末黑白棋.csproj.GenerateResource.Cache
+c:\users\kuanmin\documents\visual studio 2013\Projects\AI期末黑白棋\AI期末黑白棋\obj\Debug\AI期末黑白棋.exe
+c:\users\kuanmin\documents\visual studio 2013\Projects\AI期末黑白棋\AI期末黑白棋\obj\Debug\AI期末黑白棋.pdb
+D:\人工智慧作業\AI期末黑白棋\AI期末黑白棋\bin\Debug\AI期末黑白棋.exe.config
+D:\人工智慧作業\AI期末黑白棋\AI期末黑白棋\obj\Debug\AI期末黑白棋.exe
+D:\人工智慧作業\AI期末黑白棋\AI期末黑白棋\obj\Debug\AI期末黑白棋.pdb
+D:\人工智慧作業\AI期末黑白棋\AI期末黑白棋\bin\Debug\AI期末黑白棋.exe
+D:\人工智慧作業\AI期末黑白棋\AI期末黑白棋\bin\Debug\AI期末黑白棋.pdb
+D:\人工智慧作業\AI期末黑白棋\AI期末黑白棋\obj\Debug\AI期末黑白棋.csprojResolveAssemblyReference.cache
+D:\人工智慧作業\AI期末黑白棋\AI期末黑白棋\obj\Debug\AI期末黑白棋.Form1.resources
+D:\人工智慧作業\AI期末黑白棋\AI期末黑白棋\obj\Debug\AI期末黑白棋.Properties.Resources.resources
+D:\人工智慧作業\AI期末黑白棋\AI期末黑白棋\obj\Debug\AI期末黑白棋.csproj.GenerateResource.Cache
